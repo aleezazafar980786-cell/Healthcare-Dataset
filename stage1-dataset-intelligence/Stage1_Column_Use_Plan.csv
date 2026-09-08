@@ -1,0 +1,16 @@
+column_name,dtype,unique_values,missing_percentage,risk_type,column_role,use_decision
+name,object,49992,0.0,possible_pii,Possible feature,Use as feature
+age,int64,77,0.0,possible_sensitive,Possible feature,Use as feature
+gender,object,2,0.0,possible_sensitive,Possible feature,Use as feature
+blood_type,object,8,0.0,,Possible feature,Use as feature
+medical_condition,object,6,0.0,,Possible target,Review as target or feature
+date_of_admission,object,1827,0.0,,Possible feature,Use as feature
+doctor,object,40341,0.0,,Possible feature,Use as feature
+hospital,object,39876,0.0,,Possible feature,Use as feature
+insurance_provider,object,5,0.0,,Possible feature,Use as feature
+billing_amount,float64,50000,0.0,,Possible feature,Use as feature
+room_number,int64,400,0.0,,Possible feature,Use as feature
+admission_type,object,3,0.0,,Possible feature,Use as feature
+discharge_date,object,1856,0.0,,Possible feature,Use as feature
+medication,object,5,0.0,,Possible feature,Use as feature
+test_results,object,3,0.0,possible_target_or_leakage,Possible target,Review as target or feature

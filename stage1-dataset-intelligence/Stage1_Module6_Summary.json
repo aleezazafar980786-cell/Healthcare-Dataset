@@ -1,0 +1,23 @@
+{
+    "stage": "Stage 1 Module 6 - Top Direction Recommendation",
+    "created_on": "2026-05-18 11:35:20.456785",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "user_goal": "'Classification'",
+    "user_preferred_direction": "classification",
+    "user_preferred_target": "Medical Condition",
+    "primary_direction": "Classification",
+    "primary_direction_score": 100.0,
+    "target_candidates": [
+        "medical_condition",
+        "test_results"
+    ],
+    "feature_columns_count": 15,
+    "review_columns_count": 2,
+    "excluded_columns_count": 0,
+    "blockers": [
+        "Review risk/sensitive/leakage columns."
+    ],
+    "next_module": "Stage 1 Module 7 - Stage2 Handover Package"
+}

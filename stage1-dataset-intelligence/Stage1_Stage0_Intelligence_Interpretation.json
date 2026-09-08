@@ -1,0 +1,24 @@
+{
+    "stage": "Stage 1 Module 2 - Stage0 Intelligence Interpreter",
+    "created_on": "2026-05-18 11:28:56.737451",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "categorical_columns_count": 12,
+    "missing_percentage": 0.0,
+    "duplicate_rows": 534,
+    "possible_target_columns": [
+        "Medical Condition",
+        "Test Results"
+    ],
+    "risk_columns_count": 4,
+    "risk_columns": [
+        "name",
+        "age",
+        "gender",
+        "test_results"
+    ],
+    "overall_stage0_foundation_score": 73.75,
+    "overall_stage0_foundation_level": "Moderate Stage0 foundation",
+    "next_module": "Stage 1 Module 3 - ML Possibility Scorer"
+}

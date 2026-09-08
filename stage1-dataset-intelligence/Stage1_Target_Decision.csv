@@ -1,0 +1,3 @@
+target_column,source,unique_values,missing_percentage,possible_ml_type,decision_status
+medical_condition,Auto suggested,6,0.0,Classification,Needs final confirmation
+test_results,Auto suggested,3,0.0,Classification,Needs final confirmation

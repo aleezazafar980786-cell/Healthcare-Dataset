@@ -1,0 +1,14 @@
+allowed_feature
+name
+age
+gender
+blood_type
+date_of_admission
+doctor
+hospital
+insurance_provider
+billing_amount
+room_number
+admission_type
+discharge_date
+medication

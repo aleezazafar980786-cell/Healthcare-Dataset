@@ -1,0 +1,16 @@
+{
+    "stage": "Stage 1 Module 5 - Target and Column Use Decision",
+    "created_on": "2026-05-18 11:35:10.030701",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "preferred_target_from_user": "Medical Condition",
+    "forbidden_columns_from_user": [
+        "no"
+    ],
+    "risk_columns_count": 4,
+    "feature_columns_count": 15,
+    "review_columns_count": 2,
+    "excluded_columns_count": 0,
+    "next_module": "Stage 1 Module 6 - Top Direction Recommendation"
+}
