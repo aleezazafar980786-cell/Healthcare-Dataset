@@ -1,0 +1,18 @@
+COLUMN NAMES
+==================================================
+
+1. Name
+2. Age
+3. Gender
+4. Blood Type
+5. Medical Condition
+6. Date of Admission
+7. Doctor
+8. Hospital
+9. Insurance Provider
+10. Billing Amount
+11. Room Number
+12. Admission Type
+13. Discharge Date
+14. Medication
+15. Test Results

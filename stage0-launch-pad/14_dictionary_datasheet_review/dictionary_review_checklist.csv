@@ -1,0 +1,16 @@
+column_name,dtype,missing_count,unique_values,meaning_provided,unit_provided,allowed_values_or_range_provided,sensitivity_confirmed,ml_usage_confirmed,target_status_confirmed,review_status
+Name,object,0,49992,No,No,No,No,No,No,Pending User/Domain Expert Review
+Age,int64,0,77,No,No,No,No,No,No,Pending User/Domain Expert Review
+Gender,object,0,2,No,No,No,No,No,No,Pending User/Domain Expert Review
+Blood Type,object,0,8,No,No,No,No,No,No,Pending User/Domain Expert Review
+Medical Condition,object,0,6,No,No,No,No,No,No,Pending User/Domain Expert Review
+Date of Admission,object,0,1827,No,No,No,No,No,No,Pending User/Domain Expert Review
+Doctor,object,0,40341,No,No,No,No,No,No,Pending User/Domain Expert Review
+Hospital,object,0,39876,No,No,No,No,No,No,Pending User/Domain Expert Review
+Insurance Provider,object,0,5,No,No,No,No,No,No,Pending User/Domain Expert Review
+Billing Amount,float64,0,50000,No,No,No,No,No,No,Pending User/Domain Expert Review
+Room Number,int64,0,400,No,No,No,No,No,No,Pending User/Domain Expert Review
+Admission Type,object,0,3,No,No,No,No,No,No,Pending User/Domain Expert Review
+Discharge Date,object,0,1856,No,No,No,No,No,No,Pending User/Domain Expert Review
+Medication,object,0,5,No,No,No,No,No,No,Pending User/Domain Expert Review
+Test Results,object,0,3,No,No,No,No,No,No,Pending User/Domain Expert Review

@@ -1,0 +1,27 @@
+{
+    "stage": "Layer 5 - Numeric Basic Statistics",
+    "created_on": "2026-05-18 11:27:16.627126",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "numeric_columns": [
+        "Age",
+        "Billing Amount",
+        "Room Number"
+    ],
+    "layer_status": "PASS",
+    "strengths": [
+        "Numeric columns are available for statistical analysis.",
+        "Dataset has enough rows for basic numeric summary."
+    ],
+    "warnings": [],
+    "files_created": {
+        "report_txt": "D:\\data\\stage0-launch-pad\\05_numeric_basic_statistics\\layer5_numeric_basic_statistics_report.txt",
+        "numeric_stats_csv": "D:\\data\\stage0-launch-pad\\05_numeric_basic_statistics\\numeric_basic_statistics.csv",
+        "summary_json": "D:\\data\\stage0-launch-pad\\05_numeric_basic_statistics\\layer5_numeric_basic_statistics.json",
+        "summary_xml": "D:\\data\\stage0-launch-pad\\05_numeric_basic_statistics\\layer5_numeric_basic_statistics.xml"
+    },
+    "next_action": "Run Layer 6 - Categorical Basic Statistics"
+}

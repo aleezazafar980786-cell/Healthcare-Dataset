@@ -1,0 +1,16 @@
+column_index,column_name,possible_pii,possible_sensitive,manual_review_required
+0,Name,False,False,False
+1,Age,False,True,True
+2,Gender,False,True,True
+3,Blood Type,False,True,True
+4,Medical Condition,False,True,True
+5,Date of Admission,False,False,False
+6,Doctor,False,False,False
+7,Hospital,False,False,False
+8,Insurance Provider,False,False,False
+9,Billing Amount,False,False,False
+10,Room Number,False,False,False
+11,Admission Type,False,False,False
+12,Discharge Date,False,False,False
+13,Medication,False,True,True
+14,Test Results,False,True,True

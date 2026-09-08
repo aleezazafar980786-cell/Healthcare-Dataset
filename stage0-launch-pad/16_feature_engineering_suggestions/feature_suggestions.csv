@@ -1,0 +1,16 @@
+column_name,dtype,suggestion_type,suggestion,priority
+Name,object,High Cardinality,"Review grouping, rare labels, frequency encoding.",Medium
+Age,int64,Numeric,"Consider scaling, binning, missing flag, outlier review.",Medium
+Gender,object,Categorical,Consider one-hot encoding or label encoding.,High
+Blood Type,object,Categorical,Consider one-hot encoding or label encoding.,High
+Medical Condition,object,Categorical,Consider one-hot encoding or label encoding.,High
+Date of Admission,object,Date,"Extract year, month, day, weekday, duration.",High
+Doctor,object,High Cardinality,"Review grouping, rare labels, frequency encoding.",Medium
+Hospital,object,High Cardinality,"Review grouping, rare labels, frequency encoding.",Medium
+Insurance Provider,object,Categorical,Consider one-hot encoding or label encoding.,High
+Billing Amount,float64,Numeric,"Consider scaling, binning, missing flag, outlier review.",Medium
+Room Number,int64,Numeric,"Consider scaling, binning, missing flag, outlier review.",Medium
+Admission Type,object,Categorical,Consider one-hot encoding or label encoding.,High
+Discharge Date,object,Date,"Extract year, month, day, weekday, duration.",High
+Medication,object,Categorical,Consider one-hot encoding or label encoding.,High
+Test Results,object,Categorical,Consider one-hot encoding or label encoding.,High

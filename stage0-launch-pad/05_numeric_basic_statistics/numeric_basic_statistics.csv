@@ -1,0 +1,4 @@
+column_name,dtype,count,missing_count,missing_percentage,unique_values,mean,median,standard_deviation,minimum,q1_25_percent,q2_50_percent,q3_75_percent,maximum
+Age,int64,55500,0,0.0,77,51.539459,52.0,19.602454,13.0,35.0,52.0,68.0,89.0
+Billing Amount,float64,55500,0,0.0,50000,25539.316097,25538.069376,14211.454431,-2008.49214,13241.224652,25538.069376,37820.508436,52764.276736
+Room Number,int64,55500,0,0.0,400,301.134829,302.0,115.243069,101.0,202.0,302.0,401.0,500.0

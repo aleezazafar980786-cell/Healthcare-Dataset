@@ -1,0 +1,33 @@
+column_name,class_value,count,percentage,column_unique_values,majority_class_percentage,minority_class_percentage,balance_status
+Gender,Male,27774,50.0432,2,50.0432,49.9568,Acceptable
+Gender,Female,27726,49.9568,2,50.0432,49.9568,Acceptable
+Blood Type,A-,6969,12.5568,8,12.5568,12.391,Acceptable
+Blood Type,A+,6956,12.5333,8,12.5568,12.391,Acceptable
+Blood Type,AB+,6947,12.5171,8,12.5568,12.391,Acceptable
+Blood Type,AB-,6945,12.5135,8,12.5568,12.391,Acceptable
+Blood Type,B+,6945,12.5135,8,12.5568,12.391,Acceptable
+Blood Type,B-,6944,12.5117,8,12.5568,12.391,Acceptable
+Blood Type,O+,6917,12.4631,8,12.5568,12.391,Acceptable
+Blood Type,O-,6877,12.391,8,12.5568,12.391,Acceptable
+Medical Condition,Arthritis,9308,16.7712,6,16.7712,16.5495,Acceptable
+Medical Condition,Diabetes,9304,16.764,6,16.7712,16.5495,Acceptable
+Medical Condition,Hypertension,9245,16.6577,6,16.7712,16.5495,Acceptable
+Medical Condition,Obesity,9231,16.6324,6,16.7712,16.5495,Acceptable
+Medical Condition,Cancer,9227,16.6252,6,16.7712,16.5495,Acceptable
+Medical Condition,Asthma,9185,16.5495,6,16.7712,16.5495,Acceptable
+Insurance Provider,Cigna,11249,20.2685,5,20.2685,19.6631,Acceptable
+Insurance Provider,Medicare,11154,20.0973,5,20.2685,19.6631,Acceptable
+Insurance Provider,UnitedHealthcare,11125,20.045,5,20.2685,19.6631,Acceptable
+Insurance Provider,Blue Cross,11059,19.9261,5,20.2685,19.6631,Acceptable
+Insurance Provider,Aetna,10913,19.6631,5,20.2685,19.6631,Acceptable
+Admission Type,Elective,18655,33.6126,3,33.6126,32.9171,Acceptable
+Admission Type,Urgent,18576,33.4703,3,33.6126,32.9171,Acceptable
+Admission Type,Emergency,18269,32.9171,3,33.6126,32.9171,Acceptable
+Medication,Lipitor,11140,20.0721,5,20.0721,19.9423,Acceptable
+Medication,Ibuprofen,11127,20.0486,5,20.0721,19.9423,Acceptable
+Medication,Aspirin,11094,19.9892,5,20.0721,19.9423,Acceptable
+Medication,Paracetamol,11071,19.9477,5,20.0721,19.9423,Acceptable
+Medication,Penicillin,11068,19.9423,5,20.0721,19.9423,Acceptable
+Test Results,Abnormal,18627,33.5622,3,33.5622,33.0739,Acceptable
+Test Results,Normal,18517,33.364,3,33.5622,33.0739,Acceptable
+Test Results,Inconclusive,18356,33.0739,3,33.5622,33.0739,Acceptable

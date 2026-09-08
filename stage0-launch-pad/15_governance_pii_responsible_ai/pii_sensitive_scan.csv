@@ -1,0 +1,16 @@
+column_name,dtype,possible_pii,possible_sensitive,manual_review_required
+Name,object,True,False,True
+Age,int64,False,True,True
+Gender,object,False,True,True
+Blood Type,object,False,True,True
+Medical Condition,object,False,True,True
+Date of Admission,object,False,False,False
+Doctor,object,False,False,False
+Hospital,object,False,False,False
+Insurance Provider,object,True,False,True
+Billing Amount,float64,False,False,False
+Room Number,int64,False,False,False
+Admission Type,object,False,False,False
+Discharge Date,object,False,False,False
+Medication,object,False,True,True
+Test Results,object,False,True,True

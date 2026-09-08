@@ -1,0 +1,19 @@
+{
+    "stage": "Layer 18 - ML Problem Definitions",
+    "created_on": "2026-05-18 11:27:46.472338",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "categorical_columns_count": 12,
+    "possible_target_columns": [
+        "Medical Condition",
+        "Test Results"
+    ],
+    "date_columns": [
+        "Date of Admission",
+        "Discharge Date"
+    ],
+    "next_action": "Run Layer 19 - Research Recommendations"
+}

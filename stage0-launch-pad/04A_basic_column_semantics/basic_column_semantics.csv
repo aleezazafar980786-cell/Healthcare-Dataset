@@ -1,0 +1,16 @@
+column_index,column_name,dtype,basic_semantic_role,non_missing_count,missing_count,missing_percentage,unique_values,unique_percentage,sample_values
+0,Name,object,High Cardinality Categorical Column,55500,0,0.0,49992,90.0757,Bobby JacksOn | LesLie TErRy | DaNnY sMitH | andrEw waTtS | adrIENNE bEll
+1,Age,int64,Numeric Column,55500,0,0.0,77,0.1387,30 | 62 | 76 | 28 | 43
+2,Gender,object,Binary Categorical Column,55500,0,0.0,2,0.0036,Male | Male | Female | Female | Female
+3,Blood Type,object,Categorical Column,55500,0,0.0,8,0.0144,B- | A+ | A- | O+ | AB+
+4,Medical Condition,object,Categorical Column,55500,0,0.0,6,0.0108,Cancer | Obesity | Obesity | Diabetes | Cancer
+5,Date of Admission,object,Date or Time Column,55500,0,0.0,1827,3.2919,2024-01-31 | 2019-08-20 | 2022-09-22 | 2020-11-18 | 2022-09-19
+6,Doctor,object,High Cardinality Categorical Column,55500,0,0.0,40341,72.6865,Matthew Smith | Samantha Davies | Tiffany Mitchell | Kevin Wells | Kathleen Hanna
+7,Hospital,object,High Cardinality Categorical Column,55500,0,0.0,39876,71.8486,"Sons and Miller | Kim Inc | Cook PLC | Hernandez Rogers and Vang, | White-White"
+8,Insurance Provider,object,Categorical Column,55500,0,0.0,5,0.009,Blue Cross | Medicare | Aetna | Medicare | Aetna
+9,Billing Amount,float64,Numeric Column,55500,0,0.0,50000,90.0901,18856.281305978155 | 33643.327286577885 | 27955.096078842456 | 37909.78240987528 | 14238.317813937623
+10,Room Number,int64,Numeric Column,55500,0,0.0,400,0.7207,328 | 265 | 205 | 450 | 458
+11,Admission Type,object,Categorical Column,55500,0,0.0,3,0.0054,Urgent | Emergency | Emergency | Elective | Urgent
+12,Discharge Date,object,Date or Time Column,55500,0,0.0,1856,3.3441,2024-02-02 | 2019-08-26 | 2022-10-07 | 2020-12-18 | 2022-10-09
+13,Medication,object,Categorical Column,55500,0,0.0,5,0.009,Paracetamol | Ibuprofen | Aspirin | Ibuprofen | Penicillin
+14,Test Results,object,Categorical Column,55500,0,0.0,3,0.0054,Normal | Inconclusive | Normal | Abnormal | Abnormal

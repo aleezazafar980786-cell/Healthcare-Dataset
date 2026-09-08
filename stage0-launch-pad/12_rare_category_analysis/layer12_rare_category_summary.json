@@ -1,0 +1,31 @@
+{
+    "stage": "Layer 12 - Rare Category Analysis",
+    "created_on": "2026-05-18 11:27:30.670547",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "categorical_columns_count": 12,
+    "columns_with_rare_categories": [
+        "Name",
+        "Date of Admission",
+        "Doctor",
+        "Hospital",
+        "Discharge Date"
+    ],
+    "rare_category_threshold": "less than 1%",
+    "layer_status": "REVIEW_RECOMMENDED",
+    "warnings": [
+        "Rare categories detected in categorical columns."
+    ],
+    "recommendations": [
+        "Consider grouping rare categories into 'Other' before ML.",
+        "Avoid one-hot encoding too many rare values without review."
+    ],
+    "files_created": {
+        "report_txt": "D:\\data\\stage0-launch-pad\\12_rare_category_analysis\\layer12_rare_category_report.txt",
+        "rare_category_csv": "D:\\data\\stage0-launch-pad\\12_rare_category_analysis\\rare_category_report.csv",
+        "summary_json": "D:\\data\\stage0-launch-pad\\12_rare_category_analysis\\layer12_rare_category_summary.json"
+    },
+    "next_action": "Run Layer 13 - Metadata Generator"
+}

@@ -1,0 +1,16 @@
+column_index,column_name,current_dtype,basic_semantic_role,meaning_to_be_filled_by_user,unit_if_any,allowed_values_or_range,notes
+0,Name,object,High Cardinality Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+1,Age,int64,Numeric Column,,,,Auto-generated draft. User/domain expert must confirm.
+2,Gender,object,Binary Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+3,Blood Type,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+4,Medical Condition,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+5,Date of Admission,object,Date or Time Column,,,,Auto-generated draft. User/domain expert must confirm.
+6,Doctor,object,High Cardinality Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+7,Hospital,object,High Cardinality Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+8,Insurance Provider,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+9,Billing Amount,float64,Numeric Column,,,,Auto-generated draft. User/domain expert must confirm.
+10,Room Number,int64,Numeric Column,,,,Auto-generated draft. User/domain expert must confirm.
+11,Admission Type,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+12,Discharge Date,object,Date or Time Column,,,,Auto-generated draft. User/domain expert must confirm.
+13,Medication,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.
+14,Test Results,object,Categorical Column,,,,Auto-generated draft. User/domain expert must confirm.

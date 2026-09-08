@@ -1,0 +1,16 @@
+column_index,column_name,target_score,possible_ml_type,missing_percentage,unique_values,reason
+4,Medical Condition,9,Classification,0.0,6,acceptable missing percentage; classification target possible; target-like column name
+14,Test Results,9,Classification,0.0,3,acceptable missing percentage; classification target possible; target-like column name
+2,Gender,5,Classification,0.0,2,acceptable missing percentage; classification target possible
+3,Blood Type,5,Classification,0.0,8,acceptable missing percentage; classification target possible
+8,Insurance Provider,5,Classification,0.0,5,acceptable missing percentage; classification target possible
+11,Admission Type,5,Classification,0.0,3,acceptable missing percentage; classification target possible
+13,Medication,5,Classification,0.0,5,acceptable missing percentage; classification target possible
+1,Age,4,Regression,0.0,77,acceptable missing percentage; regression target possible
+9,Billing Amount,4,Regression,0.0,50000,acceptable missing percentage; regression target possible
+10,Room Number,4,Regression,0.0,400,acceptable missing percentage; regression target possible
+0,Name,2,Needs Review,0.0,49992,acceptable missing percentage
+5,Date of Admission,2,Needs Review,0.0,1827,acceptable missing percentage
+6,Doctor,2,Needs Review,0.0,40341,acceptable missing percentage
+7,Hospital,2,Needs Review,0.0,39876,acceptable missing percentage
+12,Discharge Date,2,Needs Review,0.0,1856,acceptable missing percentage

@@ -1,0 +1,13 @@
+column_name,dtype,count,missing_count,missing_percentage,unique_values,top_value,top_value_count,top_value_percentage,sample_values,is_low_cardinality,is_high_cardinality,is_constant
+Name,object,55500,0,0.0,49992,DAvId muNoZ,3,0.0054,Bobby JacksOn | LesLie TErRy | DaNnY sMitH | andrEw waTtS | adrIENNE bEll,False,True,False
+Gender,object,55500,0,0.0,2,Male,27774,50.0432,Male | Male | Female | Female | Female,True,False,False
+Blood Type,object,55500,0,0.0,8,A-,6969,12.5568,B- | A+ | A- | O+ | AB+,True,False,False
+Medical Condition,object,55500,0,0.0,6,Arthritis,9308,16.7712,Cancer | Obesity | Obesity | Diabetes | Cancer,True,False,False
+Date of Admission,object,55500,0,0.0,1827,2024-03-16,50,0.0901,2024-01-31 | 2019-08-20 | 2022-09-22 | 2020-11-18 | 2022-09-19,False,True,False
+Doctor,object,55500,0,0.0,40341,Michael Smith,27,0.0486,Matthew Smith | Samantha Davies | Tiffany Mitchell | Kevin Wells | Kathleen Hanna,False,True,False
+Hospital,object,55500,0,0.0,39876,LLC Smith,44,0.0793,"Sons and Miller | Kim Inc | Cook PLC | Hernandez Rogers and Vang, | White-White",False,True,False
+Insurance Provider,object,55500,0,0.0,5,Cigna,11249,20.2685,Blue Cross | Medicare | Aetna | Medicare | Aetna,True,False,False
+Admission Type,object,55500,0,0.0,3,Elective,18655,33.6126,Urgent | Emergency | Emergency | Elective | Urgent,True,False,False
+Discharge Date,object,55500,0,0.0,1856,2020-03-15,53,0.0955,2024-02-02 | 2019-08-26 | 2022-10-07 | 2020-12-18 | 2022-10-09,False,True,False
+Medication,object,55500,0,0.0,5,Lipitor,11140,20.0721,Paracetamol | Ibuprofen | Aspirin | Ibuprofen | Penicillin,True,False,False
+Test Results,object,55500,0,0.0,3,Abnormal,18627,33.5622,Normal | Inconclusive | Normal | Abnormal | Abnormal,True,False,False

@@ -1,0 +1,16 @@
+column_index,column_name,possible_leakage,warning
+0,Name,False,
+1,Age,False,
+2,Gender,False,
+3,Blood Type,False,
+4,Medical Condition,False,
+5,Date of Admission,False,
+6,Doctor,False,
+7,Hospital,False,
+8,Insurance Provider,False,
+9,Billing Amount,True,Review before using as input feature
+10,Room Number,False,
+11,Admission Type,False,
+12,Discharge Date,True,Review before using as input feature
+13,Medication,False,
+14,Test Results,True,Review before using as input feature

@@ -1,0 +1,14 @@
+CLEANING RECOMMENDATIONS
+==================================================
+
+1. Review duplicate rows before deleting because some duplicates may be valid repeated records.
+2. Trim leading/trailing spaces and standardize category spelling/case where required.
+3. Review numeric outliers. Do not remove automatically unless domain rules confirm they are invalid.
+
+
+Important:
+This layer creates a cleaned candidate file only.
+It does not modify the original raw dataset.
+
+Cleaned Candidate File:
+D:\data\stage0-launch-pad\03_data_quality\stage0_cleaned_candidate.csv

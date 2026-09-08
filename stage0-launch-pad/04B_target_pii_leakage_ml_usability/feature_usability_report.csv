@@ -1,0 +1,16 @@
+column_index,column_name,dtype,missing_percentage,unique_values,possible_date,feature_usability,feature_usability_score,reason
+0,Name,object,0.0,49992,False,Good Candidate Feature,100,no major automatic usability issue detected
+1,Age,int64,0.0,77,False,Good Candidate Feature,100,no major automatic usability issue detected
+2,Gender,object,0.0,2,False,Good Candidate Feature,100,no major automatic usability issue detected
+3,Blood Type,object,0.0,8,False,Good Candidate Feature,100,no major automatic usability issue detected
+4,Medical Condition,object,0.0,6,False,Good Candidate Feature,100,no major automatic usability issue detected
+5,Date of Admission,object,0.0,1827,True,Good Candidate Feature,100,no major automatic usability issue detected
+6,Doctor,object,0.0,40341,False,Good Candidate Feature,100,no major automatic usability issue detected
+7,Hospital,object,0.0,39876,False,Good Candidate Feature,100,no major automatic usability issue detected
+8,Insurance Provider,object,0.0,5,False,Good Candidate Feature,100,no major automatic usability issue detected
+10,Room Number,int64,0.0,400,False,Good Candidate Feature,100,no major automatic usability issue detected
+11,Admission Type,object,0.0,3,False,Good Candidate Feature,100,no major automatic usability issue detected
+13,Medication,object,0.0,5,False,Good Candidate Feature,100,no major automatic usability issue detected
+9,Billing Amount,float64,0.0,50000,False,Use With Review,60,possible leakage-risk column
+12,Discharge Date,object,0.0,1856,True,Use With Review,60,possible leakage-risk column
+14,Test Results,object,0.0,3,False,Use With Review,60,possible leakage-risk column

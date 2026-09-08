@@ -1,0 +1,22 @@
+{
+    "stage": "Layer 9 - Outlier Analysis",
+    "created_on": "2026-05-18 11:27:24.888447",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "columns_with_outliers": [],
+    "layer_status": "PASS",
+    "warnings": [],
+    "recommendations": [
+        "No IQR outliers detected automatically."
+    ],
+    "files_created": {
+        "report_txt": "D:\\data\\stage0-launch-pad\\09_outlier_analysis\\layer9_outlier_report.txt",
+        "outlier_summary_csv": "D:\\data\\stage0-launch-pad\\09_outlier_analysis\\outlier_summary_iqr.csv",
+        "outlier_preview_csv": "D:\\data\\stage0-launch-pad\\09_outlier_analysis\\outlier_preview_rows.csv",
+        "summary_json": "D:\\data\\stage0-launch-pad\\09_outlier_analysis\\layer9_outlier_summary.json"
+    },
+    "next_action": "Run Layer 10 - Skewness and Kurtosis Analysis"
+}

@@ -1,0 +1,16 @@
+column_name,dtype,total_rows,non_missing_count,missing_count,missing_percentage,unique_values,unique_percentage,dominant_value,dominant_count,dominant_percentage,is_numeric,is_constant,is_binary,is_low_cardinality,is_high_cardinality,is_dominated_by_one_value
+Name,object,55500,55500,0,0.0,49992,90.0757,DAvId muNoZ,3,0.0054,False,False,False,False,True,False
+Age,int64,55500,55500,0,0.0,77,0.1387,38,897,1.6162,True,False,False,False,True,False
+Gender,object,55500,55500,0,0.0,2,0.0036,Male,27774,50.0432,False,False,True,True,False,False
+Blood Type,object,55500,55500,0,0.0,8,0.0144,A-,6969,12.5568,False,False,False,True,False,False
+Medical Condition,object,55500,55500,0,0.0,6,0.0108,Arthritis,9308,16.7712,False,False,False,True,False,False
+Date of Admission,object,55500,55500,0,0.0,1827,3.2919,2024-03-16,50,0.0901,False,False,False,False,True,False
+Doctor,object,55500,55500,0,0.0,40341,72.6865,Michael Smith,27,0.0486,False,False,False,False,True,False
+Hospital,object,55500,55500,0,0.0,39876,71.8486,LLC Smith,44,0.0793,False,False,False,False,True,False
+Insurance Provider,object,55500,55500,0,0.0,5,0.009,Cigna,11249,20.2685,False,False,False,True,False,False
+Billing Amount,float64,55500,55500,0,0.0,50000,90.0901,8926.285937326065,2,0.0036,True,False,False,False,True,False
+Room Number,int64,55500,55500,0,0.0,400,0.7207,393,181,0.3261,True,False,False,False,True,False
+Admission Type,object,55500,55500,0,0.0,3,0.0054,Elective,18655,33.6126,False,False,False,True,False,False
+Discharge Date,object,55500,55500,0,0.0,1856,3.3441,2020-03-15,53,0.0955,False,False,False,False,True,False
+Medication,object,55500,55500,0,0.0,5,0.009,Lipitor,11140,20.0721,False,False,False,True,False,False
+Test Results,object,55500,55500,0,0.0,3,0.0054,Abnormal,18627,33.5622,False,False,False,True,False,False

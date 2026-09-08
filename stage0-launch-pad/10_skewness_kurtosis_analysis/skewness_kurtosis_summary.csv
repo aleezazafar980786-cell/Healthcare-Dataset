@@ -1,0 +1,4 @@
+column_name,skewness,kurtosis,skewness_interpretation,kurtosis_interpretation
+Age,-0.005735,-1.185576,Approximately symmetric,Light-tailed distribution
+Billing Amount,-0.000978,-1.19063,Approximately symmetric,Light-tailed distribution
+Room Number,-0.0112,-1.194189,Approximately symmetric,Light-tailed distribution

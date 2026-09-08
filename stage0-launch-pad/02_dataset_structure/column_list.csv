@@ -1,0 +1,16 @@
+column_name,dtype,non_null_count,null_count,missing_percentage,unique_values,unique_percentage,is_numeric,is_object_text,is_date_like,numeric_stored_as_text,is_id_like,is_possible_pii,sample_values
+Name,object,55500,0,0.0,49992,90.0757,False,True,False,False,False,True,Bobby JacksOn | LesLie TErRy | DaNnY sMitH | andrEw waTtS | adrIENNE bEll
+Age,int64,55500,0,0.0,77,0.1387,True,False,False,False,False,False,30 | 62 | 76 | 28 | 43
+Gender,object,55500,0,0.0,2,0.0036,False,True,False,False,False,False,Male | Male | Female | Female | Female
+Blood Type,object,55500,0,0.0,8,0.0144,False,True,False,False,False,False,B- | A+ | A- | O+ | AB+
+Medical Condition,object,55500,0,0.0,6,0.0108,False,True,False,False,False,False,Cancer | Obesity | Obesity | Diabetes | Cancer
+Date of Admission,object,55500,0,0.0,1827,3.2919,False,True,True,False,False,False,2024-01-31 | 2019-08-20 | 2022-09-22 | 2020-11-18 | 2022-09-19
+Doctor,object,55500,0,0.0,40341,72.6865,False,True,False,False,False,False,Matthew Smith | Samantha Davies | Tiffany Mitchell | Kevin Wells | Kathleen Hanna
+Hospital,object,55500,0,0.0,39876,71.8486,False,True,False,False,False,False,"Sons and Miller | Kim Inc | Cook PLC | Hernandez Rogers and Vang, | White-White"
+Insurance Provider,object,55500,0,0.0,5,0.009,False,True,False,False,False,False,Blue Cross | Medicare | Aetna | Medicare | Aetna
+Billing Amount,float64,55500,0,0.0,50000,90.0901,True,False,False,False,False,False,18856.281305978155 | 33643.327286577885 | 27955.096078842456 | 37909.78240987528 | 14238.317813937623
+Room Number,int64,55500,0,0.0,400,0.7207,True,False,False,False,False,False,328 | 265 | 205 | 450 | 458
+Admission Type,object,55500,0,0.0,3,0.0054,False,True,False,False,False,False,Urgent | Emergency | Emergency | Elective | Urgent
+Discharge Date,object,55500,0,0.0,1856,3.3441,False,True,True,False,False,False,2024-02-02 | 2019-08-26 | 2022-10-07 | 2020-12-18 | 2022-10-09
+Medication,object,55500,0,0.0,5,0.009,False,True,False,False,False,False,Paracetamol | Ibuprofen | Aspirin | Ibuprofen | Penicillin
+Test Results,object,55500,0,0.0,3,0.0054,False,True,False,False,False,False,Normal | Inconclusive | Normal | Abnormal | Abnormal

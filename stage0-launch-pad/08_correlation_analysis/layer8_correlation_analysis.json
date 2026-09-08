@@ -1,0 +1,30 @@
+{
+    "stage": "Layer 8 - Correlation Analysis",
+    "created_on": "2026-05-18 11:27:23.298142",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "numeric_columns": [
+        "Age",
+        "Billing Amount",
+        "Room Number"
+    ],
+    "high_correlation_pairs_count": 0,
+    "layer_status": "PASS",
+    "strengths": [
+        "Correlation analysis is possible because at least two numeric columns exist.",
+        "No high-correlation pairs detected at threshold >= 0.80."
+    ],
+    "warnings": [],
+    "recommendations": [],
+    "files_created": {
+        "report_txt": "D:\\data\\stage0-launch-pad\\08_correlation_analysis\\layer8_correlation_analysis_report.txt",
+        "correlation_matrix": "D:\\data\\stage0-launch-pad\\08_correlation_analysis\\correlation_matrix.csv",
+        "high_correlation_pairs": "D:\\data\\stage0-launch-pad\\08_correlation_analysis\\high_correlation_pairs.csv",
+        "summary_json": "D:\\data\\stage0-launch-pad\\08_correlation_analysis\\layer8_correlation_analysis.json",
+        "summary_xml": "D:\\data\\stage0-launch-pad\\08_correlation_analysis\\layer8_correlation_analysis.xml"
+    },
+    "next_action": "Run Layer 9 - Outlier Analysis"
+}

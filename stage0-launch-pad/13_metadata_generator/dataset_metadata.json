@@ -1,0 +1,34 @@
+{
+    "stage": "Layer 13 - Metadata Generator",
+    "created_on": "2026-05-18 11:27:32.174221",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "rows": 55500,
+    "columns": 15,
+    "column_names": [
+        "Name",
+        "Age",
+        "Gender",
+        "Blood Type",
+        "Medical Condition",
+        "Date of Admission",
+        "Doctor",
+        "Hospital",
+        "Insurance Provider",
+        "Billing Amount",
+        "Room Number",
+        "Admission Type",
+        "Discharge Date",
+        "Medication",
+        "Test Results"
+    ],
+    "metadata_status": "Auto-generated draft; user/domain expert confirmation required.",
+    "files_created": {
+        "report_txt": "D:\\data\\stage0-launch-pad\\13_metadata_generator\\layer13_metadata_report.txt",
+        "metadata_json": "D:\\data\\stage0-launch-pad\\13_metadata_generator\\dataset_metadata.json",
+        "metadata_questions_txt": "D:\\data\\stage0-launch-pad\\13_metadata_generator\\metadata_questions_for_user.txt",
+        "data_dictionary_csv": "D:\\data\\stage0-launch-pad\\13_metadata_generator\\data_dictionary_template.csv",
+        "datasheet_txt": "D:\\data\\stage0-launch-pad\\13_metadata_generator\\dataset_datasheet_draft.txt"
+    },
+    "next_action": "Run Layer 14 - Data Dictionary and Datasheet Review"
+}

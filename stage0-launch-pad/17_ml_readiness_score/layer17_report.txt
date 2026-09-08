@@ -1,0 +1,25 @@
+LAYER 17: ML READINESS SCORE
+===================================
+
+Created On: 2026-05-18 11:27:45.263948
+Dataset Name: dataset.csv
+Dataset Path: D:\data\dataset.csv
+Rows: 55500
+Columns: 15
+ML Readiness Score: 85
+Readiness Status: GOOD_FOR_NEXT_STAGE
+
+Issues:
+['Duplicate rows found', 'Possible PII columns found']
+
+Possible Target Columns:
+['Medical Condition', 'Test Results']
+
+Possible PII Columns:
+['Name', 'Insurance Provider']
+
+Files Created:
+1. D:\data\stage0-launch-pad\17_ml_readiness_score\ml_readiness_score.csv
+2. D:\data\stage0-launch-pad\17_ml_readiness_score\layer17_summary.json
+
+Next Action: Run Layer 18 - Possible ML Problem Definitions.

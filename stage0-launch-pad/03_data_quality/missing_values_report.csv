@@ -1,0 +1,16 @@
+column_name,missing_count,missing_percentage,non_missing_count,unique_values
+Name,0,0.0,55500,49992
+Age,0,0.0,55500,77
+Gender,0,0.0,55500,2
+Blood Type,0,0.0,55500,8
+Medical Condition,0,0.0,55500,6
+Date of Admission,0,0.0,55500,1827
+Doctor,0,0.0,55500,40341
+Hospital,0,0.0,55500,39876
+Insurance Provider,0,0.0,55500,5
+Billing Amount,0,0.0,55500,50000
+Room Number,0,0.0,55500,400
+Admission Type,0,0.0,55500,3
+Discharge Date,0,0.0,55500,1856
+Medication,0,0.0,55500,5
+Test Results,0,0.0,55500,3

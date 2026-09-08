@@ -1,0 +1,6 @@
+possible_target,problem_type,reason,recommended_metrics
+Medical Condition,Classification,Target-like column with limited classes,"F1, Recall, Precision, Accuracy"
+Test Results,Classification,Target-like column with limited classes,"F1, Recall, Precision, Accuracy"
+No target,Clustering,Numeric columns available,Silhouette score
+No target,Anomaly Detection,Numeric columns available,Domain validation
+Depends,Time-based Analysis,Date/time column detected,Depends on task

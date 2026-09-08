@@ -1,0 +1,13 @@
+column_name,leading_trailing_space_count,multiple_space_count,replacement_character_count,strange_character_count,original_unique_values,case_normalized_unique_values,possible_case_inconsistency
+Name,0,0,0,0,49992,40235,True
+Gender,0,0,0,0,2,2,False
+Blood Type,0,0,0,0,8,8,False
+Medical Condition,0,0,0,0,6,6,False
+Date of Admission,0,0,0,0,1827,1827,False
+Doctor,0,0,0,0,40341,40341,False
+Hospital,0,0,0,0,39876,39876,False
+Insurance Provider,0,0,0,0,5,5,False
+Admission Type,0,0,0,0,3,3,False
+Discharge Date,0,0,0,0,1856,1856,False
+Medication,0,0,0,0,5,5,False
+Test Results,0,0,0,0,3,3,False

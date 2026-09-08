@@ -1,0 +1,83 @@
+column_name,value,count,percentage
+Name,DAvId muNoZ,3,0.0054
+Name,SOnYa aDams,2,0.0036
+Name,terRY gONZaLeZ,2,0.0036
+Name,JaCKsON BARbeR,2,0.0036
+Name,doNALD aViLA,2,0.0036
+Name,RICHARd cHERry,2,0.0036
+Name,jeffRey davIs,2,0.0036
+Name,BrEANnA JaMEs,2,0.0036
+Name,MEgan mORriSon,2,0.0036
+Name,kaTheRIne WeBSTer,2,0.0036
+Gender,Male,27774,50.0432
+Gender,Female,27726,49.9568
+Blood Type,A-,6969,12.5568
+Blood Type,A+,6956,12.5333
+Blood Type,AB+,6947,12.5171
+Blood Type,AB-,6945,12.5135
+Blood Type,B+,6945,12.5135
+Blood Type,B-,6944,12.5117
+Blood Type,O+,6917,12.4631
+Blood Type,O-,6877,12.391
+Medical Condition,Arthritis,9308,16.7712
+Medical Condition,Diabetes,9304,16.764
+Medical Condition,Hypertension,9245,16.6577
+Medical Condition,Obesity,9231,16.6324
+Medical Condition,Cancer,9227,16.6252
+Medical Condition,Asthma,9185,16.5495
+Date of Admission,2024-03-16,50,0.0901
+Date of Admission,2022-07-24,49,0.0883
+Date of Admission,2020-10-22,49,0.0883
+Date of Admission,2021-12-28,48,0.0865
+Date of Admission,2021-01-03,48,0.0865
+Date of Admission,2020-04-03,48,0.0865
+Date of Admission,2019-11-04,47,0.0847
+Date of Admission,2022-07-01,47,0.0847
+Date of Admission,2020-06-07,47,0.0847
+Date of Admission,2022-01-09,47,0.0847
+Doctor,Michael Smith,27,0.0486
+Doctor,Robert Smith,22,0.0396
+Doctor,John Smith,22,0.0396
+Doctor,Michael Johnson,20,0.036
+Doctor,James Smith,20,0.036
+Doctor,Robert Johnson,19,0.0342
+Doctor,David Smith,19,0.0342
+Doctor,Michael Williams,18,0.0324
+Doctor,Matthew Smith,17,0.0306
+Doctor,Christopher Smith,17,0.0306
+Hospital,LLC Smith,44,0.0793
+Hospital,Ltd Smith,39,0.0703
+Hospital,Johnson PLC,38,0.0685
+Hospital,Smith Ltd,37,0.0667
+Hospital,Smith PLC,36,0.0649
+Hospital,Smith Group,36,0.0649
+Hospital,Johnson Inc,35,0.0631
+Hospital,Smith Inc,34,0.0613
+Hospital,Smith LLC,32,0.0577
+Hospital,Group Smith,32,0.0577
+Insurance Provider,Cigna,11249,20.2685
+Insurance Provider,Medicare,11154,20.0973
+Insurance Provider,UnitedHealthcare,11125,20.045
+Insurance Provider,Blue Cross,11059,19.9261
+Insurance Provider,Aetna,10913,19.6631
+Admission Type,Elective,18655,33.6126
+Admission Type,Urgent,18576,33.4703
+Admission Type,Emergency,18269,32.9171
+Discharge Date,2020-03-15,53,0.0955
+Discharge Date,2021-12-13,51,0.0919
+Discharge Date,2020-12-02,51,0.0919
+Discharge Date,2023-04-29,51,0.0919
+Discharge Date,2020-08-11,50,0.0901
+Discharge Date,2019-09-10,49,0.0883
+Discharge Date,2021-01-28,49,0.0883
+Discharge Date,2022-02-25,48,0.0865
+Discharge Date,2020-09-03,48,0.0865
+Discharge Date,2019-08-06,47,0.0847
+Medication,Lipitor,11140,20.0721
+Medication,Ibuprofen,11127,20.0486
+Medication,Aspirin,11094,19.9892
+Medication,Paracetamol,11071,19.9477
+Medication,Penicillin,11068,19.9423
+Test Results,Abnormal,18627,33.5622
+Test Results,Normal,18517,33.364
+Test Results,Inconclusive,18356,33.0739

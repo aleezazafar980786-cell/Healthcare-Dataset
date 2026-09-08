@@ -1,0 +1,36 @@
+{
+    "stage": "Layer 0 - Control and Purpose",
+    "created_on": "2026-05-18 11:26:18.661465",
+    "dataset_name": "dataset.csv",
+    "dataset_path": "D:\\data\\dataset.csv",
+    "base_path": "D:\\data",
+    "stage0_path": "D:\\data\\stage0-launch-pad",
+    "rows": 55500,
+    "columns": 15,
+    "column_names": [
+        "Name",
+        "Age",
+        "Gender",
+        "Blood Type",
+        "Medical Condition",
+        "Date of Admission",
+        "Doctor",
+        "Hospital",
+        "Insurance Provider",
+        "Billing Amount",
+        "Room Number",
+        "Admission Type",
+        "Discharge Date",
+        "Medication",
+        "Test Results"
+    ],
+    "purpose": "Create a controlled Stage0 base before ML/AI work starts.",
+    "important_rules": [
+        "Do not modify the raw dataset directly.",
+        "All generated files must stay inside stage0-launch-pad.",
+        "The next ML/AI stage must read What_is_my_purpose_for_next_stage.txt first.",
+        "Separate detected facts from recommendations.",
+        "User/domain expert must confirm target column, metadata, and sensitive fields."
+    ],
+    "next_action": "Run Layer 1 - Raw File Rescue"
+}
