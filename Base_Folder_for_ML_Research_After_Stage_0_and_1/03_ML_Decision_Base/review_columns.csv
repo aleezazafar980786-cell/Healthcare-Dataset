@@ -1,0 +1,13 @@
+review_column
+name
+age
+gender
+blood_type
+date_of_admission
+doctor
+hospital
+insurance_provider
+admission_type
+discharge_date
+medication
+test_results

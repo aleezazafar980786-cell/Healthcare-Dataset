@@ -1,0 +1,2 @@
+column_name,dtype,missing_percentage,unique_values,is_numeric,risk_type,stage1_use_decision,feature_score,target_score,risk_score,recommended_use,confidence,reason,requires_user_confirmation
+medical_condition,object,0.0,6,False,,Review as target or feature,58,65,0,possible_target,medium,non_numeric; missing_0.0%; unique_6; target_candidate,yes

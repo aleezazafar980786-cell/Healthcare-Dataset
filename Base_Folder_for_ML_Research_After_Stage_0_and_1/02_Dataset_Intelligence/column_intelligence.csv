@@ -1,0 +1,16 @@
+column_name,dtype,missing_percentage,unique_values,is_numeric,risk_type,stage1_use_decision,feature_score,target_score,risk_score,recommended_use,confidence,reason,requires_user_confirmation
+name,object,0.0,49992,False,possible_pii,Use as feature,5,0,60,review_before_use,medium,non_numeric; missing_0.0%; unique_49992; risk_possible_pii,yes
+age,int64,0.0,77,True,possible_sensitive,Use as feature,27,0,60,review_before_use,medium,numeric; missing_0.0%; unique_77; risk_possible_sensitive,yes
+gender,object,0.0,2,False,possible_sensitive,Use as feature,23,0,60,review_before_use,medium,non_numeric; missing_0.0%; unique_2; risk_possible_sensitive,yes
+blood_type,object,0.0,8,False,,Use as feature,58,20,0,review_before_use,medium,non_numeric; missing_0.0%; unique_8,yes
+medical_condition,object,0.0,6,False,,Review as target or feature,58,65,0,possible_target,medium,non_numeric; missing_0.0%; unique_6; target_candidate,yes
+date_of_admission,object,0.0,1827,False,,Use as feature,40,0,0,review_before_use,medium,non_numeric; missing_0.0%; unique_1827,yes
+doctor,object,0.0,40341,False,,Use as feature,40,0,0,review_before_use,medium,non_numeric; missing_0.0%; unique_40341,yes
+hospital,object,0.0,39876,False,,Use as feature,40,0,0,review_before_use,medium,non_numeric; missing_0.0%; unique_39876,yes
+insurance_provider,object,0.0,5,False,,Use as feature,58,20,0,review_before_use,medium,non_numeric; missing_0.0%; unique_5,yes
+billing_amount,float64,0.0,50000,True,,Use as feature,62,15,0,use_as_feature,medium,numeric; missing_0.0%; unique_50000,no
+room_number,int64,0.0,400,True,,Use as feature,62,15,0,use_as_feature,medium,numeric; missing_0.0%; unique_400,no
+admission_type,object,0.0,3,False,,Use as feature,58,20,0,review_before_use,medium,non_numeric; missing_0.0%; unique_3,yes
+discharge_date,object,0.0,1856,False,,Use as feature,40,0,0,review_before_use,medium,non_numeric; missing_0.0%; unique_1856,yes
+medication,object,0.0,5,False,,Use as feature,58,20,0,review_before_use,medium,non_numeric; missing_0.0%; unique_5,yes
+test_results,object,0.0,3,False,possible_target_or_leakage,Review as target or feature,23,45,60,review_before_use,medium,non_numeric; missing_0.0%; unique_3; risk_possible_target_or_leakage; target_candidate,yes

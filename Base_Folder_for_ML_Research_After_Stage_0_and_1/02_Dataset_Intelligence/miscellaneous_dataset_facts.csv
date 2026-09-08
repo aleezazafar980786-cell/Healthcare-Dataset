@@ -1,0 +1,6 @@
+fact_type,column_name,fact,possible_use
+high_cardinality_note,name,many unique text/category values,may need grouping or special encoding
+high_cardinality_note,date_of_admission,many unique text/category values,may need grouping or special encoding
+high_cardinality_note,doctor,many unique text/category values,may need grouping or special encoding
+high_cardinality_note,hospital,many unique text/category values,may need grouping or special encoding
+high_cardinality_note,discharge_date,many unique text/category values,may need grouping or special encoding

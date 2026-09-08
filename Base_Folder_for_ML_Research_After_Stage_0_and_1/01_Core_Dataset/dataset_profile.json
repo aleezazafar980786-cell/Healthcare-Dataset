@@ -1,0 +1,20 @@
+{
+    "created_on": "2026-05-18 11:35:29.235755",
+    "dataset_name": "dataset.csv",
+    "original_dataset_path": "D:\\data\\dataset.csv",
+    "dataset_for_stage2": "D:\\data\\Base_Folder_for_ML_Research_After_Stage_0_and_1\\01_Core_Dataset\\dataset_for_stage_2.csv",
+    "rows": 55500,
+    "columns": 15,
+    "numeric_columns_count": 3,
+    "categorical_columns_count": 12,
+    "average_missing_percentage": 0.0,
+    "duplicate_rows": 534,
+    "possible_target_columns": [
+        "medical_condition",
+        "test_results"
+    ],
+    "user_preferred_target": "Medical Condition",
+    "system_selected_target_candidate": "Medical Condition",
+    "user_goal_low_weight": "'Classification'",
+    "base_folder": "D:\\data\\Base_Folder_for_ML_Research_After_Stage_0_and_1"
+}

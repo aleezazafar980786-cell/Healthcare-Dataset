@@ -1,0 +1,2 @@
+user_goal,user_direction,user_target,system_validation,evidence,next_action
+'Classification',classification,Medical Condition,not_found,User-selected target not found in Stage2 dataset.,Ask user to reconfirm before Stage2.

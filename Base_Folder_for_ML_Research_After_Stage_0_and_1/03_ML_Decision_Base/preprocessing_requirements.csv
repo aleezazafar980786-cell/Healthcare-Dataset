@@ -1,0 +1,14 @@
+column_name,dtype,missing_percentage,unique_values,preprocessing_need
+name,object,0.0,49992,Review high cardinality; group or encode carefully.
+age,int64,0.0,77,Impute if missing; scale if model needs it.
+gender,object,0.0,2,Impute if missing; encode categorical values.
+blood_type,object,0.0,8,Impute if missing; encode categorical values.
+date_of_admission,object,0.0,1827,Review high cardinality; group or encode carefully.
+doctor,object,0.0,40341,Review high cardinality; group or encode carefully.
+hospital,object,0.0,39876,Review high cardinality; group or encode carefully.
+insurance_provider,object,0.0,5,Impute if missing; encode categorical values.
+billing_amount,float64,0.0,50000,Impute if missing; scale if model needs it.
+room_number,int64,0.0,400,Impute if missing; scale if model needs it.
+admission_type,object,0.0,3,Impute if missing; encode categorical values.
+discharge_date,object,0.0,1856,Review high cardinality; group or encode carefully.
+medication,object,0.0,5,Impute if missing; encode categorical values.
